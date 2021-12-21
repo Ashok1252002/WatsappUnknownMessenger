@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WatsappUnknownMessenge/static/css/main.f5fadc8a.css",
+    "main.js": "/WatsappUnknownMessenge/static/js/main.bb33d98d.js",
+    "index.html": "/WatsappUnknownMessenge/index.html",
+    "main.f5fadc8a.css.map": "/WatsappUnknownMessenge/static/css/main.f5fadc8a.css.map",
+    "main.bb33d98d.js.map": "/WatsappUnknownMessenge/static/js/main.bb33d98d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5fadc8a.css",
+    "static/js/main.bb33d98d.js"
+  ]
+}
