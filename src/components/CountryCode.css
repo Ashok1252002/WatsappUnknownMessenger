@@ -1,0 +1,45 @@
+.box1 {
+	display: flex;
+	flex-direction: column;
+	font-size: 25px;
+	font-weight: 500;
+	text-transform: uppercase;
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+input[type="tel"],
+select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.btn {
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	/* width: 20px; */
+}
+
+label {
+	margin-top: 9px;
+	margin-bottom: 4px;
+	font-size: 17px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+button {
+	cursor: pointer;
+	margin-top: 7px;
+	background-color: black;
+	color: white;
+	width: 80px;
+	height: 30px;
+}
